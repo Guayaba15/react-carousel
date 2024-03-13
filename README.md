@@ -1,4 +1,4 @@
-# react-carousel
+# react-carousel-project
 
 > Made with create-react-library
 
