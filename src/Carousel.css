@@ -1,0 +1,37 @@
+/* Carousel.css */
+.carousel {
+    position: relative;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .carousel img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .carousel button {
+    position: absolute;
+    top: 55%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.438);
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    cursor: pointer;
+    border-radius: 7px;
+  }
+  
+  .carousel button:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .carousel button:first-of-type {
+    left: 10px;
+  }
+  
+  .carousel button:last-of-type {
+    right: 10px;
+  }
