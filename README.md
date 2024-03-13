@@ -2,12 +2,12 @@
 
 > Made with create-react-library
 
-[![NPM](https://img.shields.io/npm/v/react-carousel.svg)](https://www.npmjs.com/package/react-carousel) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-carousel-project.svg)](https://www.npmjs.com/package/react-carousel-project) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save react-carousel
+npm install --save react-carousel-project
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save react-carousel
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-carousel'
-import 'react-carousel/dist/index.css'
+import MyComponent from 'react-carousel-project'
+import 'react-carousel-project/dist/index.css'
 
 class Example extends Component {
   render() {
